@@ -4,7 +4,7 @@ latihan 1 (fungsi fibonacci dengan cara iteratif)
 
 =>> Alur algoritma :
 
-```
+
 1.mulai program
 2.int iteratif (int suku, int a, int b, int c)
 3.a=0, b=1;
@@ -21,11 +21,11 @@ latihan 1 (fungsi fibonacci dengan cara iteratif)
 14.cout<<"\nBilangan fibonaccinya untuk "<<suku<<" adalah ";
 15.cout<< iteratif ( suku,  a,  b,  c);
 16.selesai
-```
+
 
 =>> kode C++ program :
 
-```
+
 #include <iostream>
 
 using namespace std;
@@ -63,22 +63,26 @@ cout<<"\nBilangan fibonaccinya untuk "<<suku<<" adalah ";
 cout<< iteratif ( suku,  a,  b,  c);
 return 0;
 }
-```
+
+
 =>> Flowchart latihan1 :
+
 
 ![flowchart_latihan1](https://user-images.githubusercontent.com/43899109/49623980-5fdd0900-fa02-11e8-97a2-a101612d0fd5.jpg)
 
 
 =>> Hasil Sreenshot program :
 
+
 ![latihan1](https://user-images.githubusercontent.com/43899109/49623982-623f6300-fa02-11e8-88f7-dcf80c76c32b.jpg)
 
 
 latihan 2 fungsi rekursif untuk perkalian dua buah bilangan
 
+
 =>> Alur algoritma :
 
-```
+
 1.mulai program
 2.faktorial dengan rekursif
 3.int faktorial(int n){
@@ -95,9 +99,10 @@ latihan 2 fungsi rekursif untuk perkalian dua buah bilangan
 14.cout << n << "! = ";
 15.cout << "Maka nilai " << n << " faktorial dengan rekursif: " << faktorial(n) << endl << endl;
 16.selesai
-```
+
 
 =>> Kode C++ program :
+
 
 #include<iostream>
 
@@ -117,14 +122,19 @@ cout << "masukkan nilai n! ";
 cin >> n;
 cout << "Nilai N faktorial dengan iterasi: " << faktorial(n) << endl;
 }
-```
+
 
 =>> Hasil Sreenshot program :
+
+
 ![latihan2](https://user-images.githubusercontent.com/43899109/49623983-62d7f980-fa02-11e8-85dc-cfee9dce9e3b.jpg)
+
 
 latihan 3
 
+
 =>> Alur algoritma :
+
 
 1.mulai program
 2.int kali1(int a, int b){
@@ -158,10 +168,10 @@ latihan 3
  }
 26.selesai
 
+
 =>> kode C++ program :
 
 
-```
 #include <iostream>
 
 using namespace std;
@@ -188,7 +198,7 @@ int main(){
         }
     }
 }
-```
+
 
 =>> Hasil screenshoot program :
 
@@ -198,9 +208,10 @@ int main(){
 
 latihan5 contoh cara rekursif dan iteratif
 
+
 =>> KOde C++ program :
 
-```
+
 #include <cstdlib>
  #include <iostream>
 using namespace std;
@@ -233,7 +244,7 @@ using namespace std;
  system("PAUSE");
  return EXIT_SUCCESS;
  }
-```
+
 
 =>>  Hasil screenshoot program :
 
