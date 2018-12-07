@@ -4,7 +4,7 @@ latihan 1 (fungsi fibonacci dengan cara iteratif)
 
 =>> Alur algoritma :
 
-
+```
 1.mulai program
 2.int iteratif (int suku, int a, int b, int c)
 3.a=0, b=1;
@@ -22,10 +22,11 @@ latihan 1 (fungsi fibonacci dengan cara iteratif)
 15.cout<< iteratif ( suku,  a,  b,  c);
 16.selesai
 
+```
 
 =>> kode C++ program :
 
-
+```
 #include <iostream>
 
 using namespace std;
@@ -64,6 +65,7 @@ cout<< iteratif ( suku,  a,  b,  c);
 return 0;
 }
 
+```
 
 =>> Flowchart latihan1 :
 
@@ -82,7 +84,7 @@ latihan 2 fungsi rekursif untuk perkalian dua buah bilangan
 
 =>> Alur algoritma :
 
-
+```
 1.mulai program
 2.faktorial dengan rekursif
 3.int faktorial(int n){
@@ -100,10 +102,11 @@ latihan 2 fungsi rekursif untuk perkalian dua buah bilangan
 15.cout << "Maka nilai " << n << " faktorial dengan rekursif: " << faktorial(n) << endl << endl;
 16.selesai
 
+```
 
 =>> Kode C++ program :
 
-
+```
 #include<iostream>
 
 using namespace std;
@@ -123,6 +126,7 @@ cin >> n;
 cout << "Nilai N faktorial dengan iterasi: " << faktorial(n) << endl;
 }
 
+```
 
 =>> Hasil Sreenshot program :
 
@@ -135,7 +139,7 @@ latihan 3
 
 =>> Alur algoritma :
 
-
+```
 1.mulai program
 2.int kali1(int a, int b){
 3.int hasil =0;
@@ -168,10 +172,11 @@ latihan 3
  }
 26.selesai
 
+```
 
 =>> kode C++ program :
 
-
+```
 #include <iostream>
 
 using namespace std;
@@ -199,6 +204,7 @@ int main(){
     }
 }
 
+```
 
 =>> Hasil screenshoot program :
 
@@ -211,7 +217,7 @@ latihan5 contoh cara rekursif dan iteratif
 
 =>> KOde C++ program :
 
-
+```
 #include <cstdlib>
  #include <iostream>
 using namespace std;
@@ -245,6 +251,7 @@ using namespace std;
  return EXIT_SUCCESS;
  }
 
+```
 
 =>>  Hasil screenshoot program :
 
