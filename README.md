@@ -193,7 +193,7 @@ int main(){
 =>> Hasil screenshoot program :
 
 
-![latihan3](https://user-images.githubusercontent.com/43899109/49623984-63709000-fa02-11e8-9ae6-d6e45bd18368.jpg)
+![latihan3](https://user-images.githubusercontent.com/43899109/49624542-68364380-fa04-11e8-86f7-bd99443aeb28.jpg)
 
 
 latihan5 contoh cara rekursif dan iteratif
@@ -238,4 +238,5 @@ using namespace std;
 =>>  Hasil screenshoot program :
 
 
-![latihan5](https://user-images.githubusercontent.com/43899109/49623988-63709000-fa02-11e8-8896-a48317f90d09.jpg)
+![latihan5](https://user-images.githubusercontent.com/43899109/49624562-7edc9a80-fa04-11e8-8169-8a7860e78aba.jpg)
+
