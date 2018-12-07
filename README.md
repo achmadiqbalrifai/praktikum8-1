@@ -160,6 +160,7 @@ latihan 3
 
 =>> kode C++ program :
 
+
 ```
 #include <iostream>
 
@@ -191,6 +192,7 @@ int main(){
 
 =>> Hasil screenshoot program :
 
+
 ![latihan3](https://user-images.githubusercontent.com/43899109/49623984-63709000-fa02-11e8-9ae6-d6e45bd18368.jpg)
 
 
@@ -198,10 +200,9 @@ latihan5 contoh cara rekursif dan iteratif
 
 =>> KOde C++ program :
 
+```
 #include <cstdlib>
  #include <iostream>
-
-```
 using namespace std;
  int kali1(int a, int b){
  int hasil =0;
@@ -235,5 +236,6 @@ using namespace std;
 ```
 
 =>>  Hasil screenshoot program :
+
 
 ![latihan5](https://user-images.githubusercontent.com/43899109/49623988-63709000-fa02-11e8-8896-a48317f90d09.jpg)
